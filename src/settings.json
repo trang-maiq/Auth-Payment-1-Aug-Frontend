@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Discover Your Story with Yay!",
+  "subtitle": "Share, Inspire, and Connect with Your Personal Marketing \u0026 Sales Blog"
+}
